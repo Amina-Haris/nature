@@ -1,0 +1,14 @@
+#heading{
+    text-transform: capitalize;
+    text-align: center;
+  }
+.intro{ 
+  font-size: 20px;
+  background-color: blanchedalmond;
+}   
+.content{
+    background-color: aquamarine;
+  }
+.content1{
+    background-color: rgb(15, 201, 201);
+   } 
